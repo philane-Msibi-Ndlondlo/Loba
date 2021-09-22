@@ -1,0 +1,16 @@
+{
+  "name": "loba",
+  "version": "1.0.0",
+  "description": "This is a logger for customizing your logging to the termial for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "logger node js"
+  },
+  "keywords": [
+    "logger",
+    "node",
+    "js"
+  ],
+  "author": "Philane Msibi",
+  "license": "ISC"
+}
